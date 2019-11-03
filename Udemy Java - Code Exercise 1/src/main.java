@@ -8,6 +8,12 @@ public class main {
 		double kiloMetersPerHour = 10.25;
 		
 		f.printConversion(f.toMilesPerHour(kiloMetersPerHour));
+		
+		MegaBytesConverter e = new MegaBytesConverter();
+		
+		int kiloBytes = -7;
+		
+		e.printMegaBytesAndKiloBytes(kiloBytes);
 	}
 
 }
