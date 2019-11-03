@@ -8,9 +8,6 @@ public class main {
 		double kiloMetersPerHour = 10.25;
 		
 		f.printConversion(f.toMilesPerHour(kiloMetersPerHour));
-		
-	
-
 	}
 
 }

@@ -1,8 +1,6 @@
 
 public class SpeedConverter {
 	
-	 // write your code here
-    
 	public static void printConversion(double kilometersPerHour)
 	{
 		
@@ -16,8 +14,6 @@ public class SpeedConverter {
 			System.out.println(kilometersPerHour + " km/h = " + km + " mi/h");
 		}
 	}
-	
-	
 	
 	public static long toMilesPerHour(double kilometersPerHour)
     {
@@ -33,6 +29,5 @@ public class SpeedConverter {
     	}
     	
     }
-	
 	
 }
