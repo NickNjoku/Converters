@@ -26,8 +26,6 @@ public class MegaBytesConverter {
 			int remainder = kiloBytes % 1024;
 			
 			System.out.println(kiloBytes + " KB = "+ totalMB + " MB and "+ remainder + " KB");
-		}
-		
+		}	
 	}
-
 }
